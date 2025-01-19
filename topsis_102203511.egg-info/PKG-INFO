@@ -1,0 +1,27 @@
+Metadata-Version: 2.2
+Name: topsis-102203511
+Version: 1.0.0
+Summary: Python implementation of TOPSIS for multi-criteria decision-making
+Author: Sneha
+Author-email: sneha30404@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.18.5
+Requires-Dist: pandas>=1.1.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# TOPSIS Assignment
+
+Python implementation of the TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) algorithm for multi-criteria decision-making.
+
+## Installation
