@@ -8,6 +8,9 @@ Python implementation of the **TOPSIS (Technique for Order of Preference by Simi
 - Calculate distances to the ideal best and worst solutions.
 - Generate scores and rank alternatives.
 
+## LINK 
+https://pypi.org/project/topsis-102203511/
+
 ## Installation
 
 Install the package directly from PyPI using `pip`:
@@ -37,4 +40,5 @@ Run tests to validate functionality:
 ```bash
 python -m unittest discover tests
 ```
+
 
